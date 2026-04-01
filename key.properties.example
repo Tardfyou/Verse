@@ -1,0 +1,4 @@
+storeFile=keystore/release.jks
+storePassword=replace_with_your_store_password
+keyAlias=paperlens
+keyPassword=replace_with_your_key_password
